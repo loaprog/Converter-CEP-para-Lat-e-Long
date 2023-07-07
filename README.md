@@ -5,6 +5,6 @@ O script foi desenvolvido para buscar uma planilha que contenha uma coluna de CE
 
 Essas coordenadas permitem realizar análises espaciais mais precisas e também possibilitam a criação de mapas utilizando softwares GIS (Sistemas de Informação Geográfica). 
 
-# Necessario criar uma conta no mapquest, a versão free é permitido processar até 15 mil linhas
+# Necessario criar uma conta no mapquest, a versão free é permitido processar até 15 mil linhas por mês
 https://developer.mapquest.com/plans
 
